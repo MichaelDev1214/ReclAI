@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+password.txt
+resumenEmpresa.txt
+reclamos.json
+admins.json
+users.json
+
+.vscode/
+.idea/
+
+.env
