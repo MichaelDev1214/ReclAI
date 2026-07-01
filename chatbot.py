@@ -27,9 +27,11 @@ def promt(correo, config):
     * Cuando el usuario proporcione toda la información necesaria para registrar el reclamo, indícalo y realiza un breve resumen antes de finalizar la conversación.
     * No inventes datos del reclamo. Si falta información, solicítala.
     * Tus respuestas deben ser claras, naturales y breves, evitando explicaciones innecesarias.
+    
     Solo escribe
 
-    "[TERMINATE_PROGRAM]" con todo y mayusculas y llaves, exactamente como está escrito aqui
+    [TERMINATE_PROGRAM] con todo y mayusculas y llaves, EXACTAMENTE como está escrito aqui: [TERMINATE_PROGRAM]
+    escribelo LITERALMENTE ASI: [TERMINATE_PROGRAM] entre corchetes, en mayuscula y con un guion bajo: [TERMINATE_PROGRAM]
 
     cuando:
 

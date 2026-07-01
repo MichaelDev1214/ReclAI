@@ -40,7 +40,9 @@ def promt(correo):
 
     Escribe exactamente la etiqueta:
 
-    "[TERMINATE_PROGRAM]" con todo y mayusculas y llaves, exactamente como está escrito aqui
+    [TERMINATE_PROGRAM] con todo y mayusculas y llaves, EXACTAMENTE como está escrito aqui: [TERMINATE_PROGRAM]
+    escribelo LITERALMENTE ASI: [TERMINATE_PROGRAM] entre corchetes, en mayuscula y con un guion bajo: [TERMINATE_PROGRAM]
+
 
     únicamente cuando:
 
